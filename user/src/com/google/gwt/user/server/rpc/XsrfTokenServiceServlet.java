@@ -22,7 +22,7 @@ import com.google.gwt.user.server.Util;
 import com.google.gwt.util.tools.shared.Md5Utils;
 import com.google.gwt.util.tools.shared.StringUtils;
 
-import javax.servlet.http.Cookie;
+import jakarta.servlet.http.Cookie;
 
 /**
  * EXPERIMENTAL and subject to change. Do not use this in production code.
